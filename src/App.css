@@ -1,8 +1,10 @@
-/* App.css */
-.sp-textfield {
-  border: 1px solid #000 !important; /* Ensure the style overrides */
-  padding: 10px; /* Add padding for better appearance */
-  width: 100%; /* Make sure it takes the full width of the container */
-  box-sizing: border-box; /* Include padding and border in the element's total width and height */
-  margin-top: 10px; /* Space between label and text field */
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full height of the viewport */
+}
+
+h1 {
+  text-align: center;
 }
