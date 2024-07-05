@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@spectrum-web-components/button": "^0.43.0",
+    "@spectrum-web-components/field-label": "^0.43.0",
     "@spectrum-web-components/textfield": "^0.43.0",
     "@swc-react/button": "^0.43.0",
     "@testing-library/jest-dom": "^5.17.0",
